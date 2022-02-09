@@ -1,0 +1,9 @@
+    1  ls
+    2  cd SageMaker/
+    3  ls
+    4  cd hands-_on/
+    5  touch text.txt
+    6  ls
+    7  vi text.txt
+    8  history
+    9  history > commands.txt
