@@ -1,0 +1,34 @@
+    1  ls
+    2  cd SageMaker/
+    3  ls
+    4  cd hands-_on/
+    5  touch text.txt
+    6  ls
+    7  vi text.txt
+    8  history
+    9  history > commands.txt
+   10  cat text.txt
+   11  git status
+   12  git add .
+   13  git commit -m'initial commit'
+   14  git push
+   15  cd ..
+   16  ls
+   17  cd ..
+   18  ls
+   19  cd SageMaker/
+   20  cd..
+   21  cd ..
+   22  cd SageMaker/hands-_on/
+   23  ls
+   24  pwd
+   25  cd ..
+   26  ls
+   27  mv newtext.txt /home/ec2-user/SageMaker/hands-_on/
+   28  ls
+   29  cp newtext.txt /home/ec2-user/SageMaker/hands-_on/newnewtext.txt
+   30  cp text.txt /home/ec2-user/SageMaker/hands-_on/newnewtext.txt
+   31  cd /home/ec2-user/SageMaker/hands-_on
+   32  ls
+   33  history
+   34  history > newcommands.txt
